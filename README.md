@@ -2,6 +2,6 @@
 Repositori untuk keperluan Praktikum Algoritma Pemrograman Jurusan Informatika UPNYK
 
 #### Biodata
- Nama	: Muh Hamka Satrianto
+ Nama	: alvito aryo prabowo
  NIM	: 123200158
  Kelas	: kelas F IF
