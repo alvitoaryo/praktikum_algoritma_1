@@ -3,5 +3,5 @@ Repositori untuk keperluan Praktikum Algoritma Pemrograman Jurusan Informatika U
 
 #### Biodata
  Nama	: Muh Hamka Satrianto
- NIM	: (isikan nim and)
- Kelas	: (isikan Kelas Praktikum)
+ NIM	: 123200158
+ Kelas	: kelas F IF
