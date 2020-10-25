@@ -2,13 +2,6 @@
 using namespace std;
 int main()
 {
-char nama[20],kelas[20],jurusan[20];
-int nim;
-cout<<"Nama   :";cin.getline(nama,sizeof(nama));
-cout<<"Kelas  :";cin.getline(kelas,sizeof(kelas));
-cout<<"jurusan:";cin.getline(jurusan,sizeof(jurusan));
-cout<<"Nim    :";cin>>nim;
-cout<<endl;
 
 cout << "Nilai dari 5 + 3 = " << 9+4; 
 cout << "\nNilai dari 5 - 3 = " << 9-4; 
